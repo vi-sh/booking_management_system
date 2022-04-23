@@ -1,0 +1,5 @@
+paxid,name,departure,itinerary
+174PRA,prass,Jun-14 09:10 2020,AMS -> CDG -> LHR
+311PRA,prass,Jun-12 08:09 2020,AMS -> LHR
+859VIS,vish,Jun-06 10:00 2020,AAL -> AMS -> LHR -> JFK -> SFO
+857VIS,vish,Jun-06 10:00 2020,AAL -> AMS -> LHR -> JFK -> SFO
